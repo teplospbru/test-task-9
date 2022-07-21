@@ -1,0 +1,19 @@
+{
+  "name": "file-parser",
+  "version": "1.0.0",
+  "description": "File parser for test task",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "dotenv": "^16.0.1",
+    "iconv-lite": "^0.6.3",
+    "node-fetch": "^3.2.9",
+    "xml2json": "^0.12.0"
+  }
+}
